@@ -1,7 +1,7 @@
 [![MasterHead]()]
 <h1 align="center">Jayasankar R</h1>
 <h3 align="center">Still Finding</h3>
-<image align="right" alt="AI" width="400"src="https://i.pinimg.com/originals/06/1c/7d/061c7d41b842431020914141904f38b0.gif">
+<image align="right" alt="AI" width="400"src="https://media.tenor.com/vDlviqWl3zEAAAAC/anime-aesthetic.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayasankar-r&label=Profile%20views&color=0e75b6&style=flat" alt="jayasankar-r" /> </p>
 
 - 🌱 I’m currently learning **AI**
