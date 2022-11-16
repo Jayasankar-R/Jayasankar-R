@@ -1,7 +1,7 @@
 [![MasterHead](https://media2.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif?cid=ecf05e47gpoalsryp3s58b7e42h3qqzgfqzhirir5v1qvtus&rid=giphy.gif&ct=g)]
 <h1 align="center">Hi 👋, I'm Jayasankar R</h1>
 <h3 align="center">Still Finding</h3>
-<image align="right" alt="AI" width="400"src="https://media2.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif?cid=ecf05e47gpoalsryp3s58b7e42h3qqzgfqzhirir5v1qvtus&rid=giphy.gif&ct=g">
+<image align="right" alt="AI" width="400"src="https://i.pinimg.com/originals/a6/06/10/a606107aca7f60784e12d1ff0cfe3c72.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayasankar-r&label=Profile%20views&color=0e75b6&style=flat" alt="jayasankar-r" /> </p>
 
 - 🌱 I’m currently learning **AI**
