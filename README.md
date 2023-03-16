@@ -1,6 +1,6 @@
 ### It's me Jayasankar R.
 ###### Electronics Undergrad | Still finding
-![Black-Technology-Linked-In-Banner.png](BlackTechnologyLinkedInBanner.png)
+![Black-Technology-Linked-In-Banner.png](banner.jpg)
 
 I am a final year electronics student at Model Engineering College. I am curious about integrating my course relevance with modern computer science applications, and want to be a developer in the future.
 
