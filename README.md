@@ -6,7 +6,21 @@ I am a final year electronics student at Model Engineering College. I am curious
 
 Explored areas of web development, and Machine Learning.
 
-Skills: HTML / CSS / Javascript / C++ / Python / ML / OpenCV / Bootstrap / Linux / Photoshop / Blender
+Skills:
+
+       Programming Languages: C++, Python, Java, JavaScript, TypeScript
+       
+       Frontend & Design: HTML, CSS, Bootstrap, ReactJS, Photoshop, Blender
+       
+       Backend & Frameworks: NodeJS, Django, Flask, Java Spring Boot, ASP.NET
+       
+       Databases: PostgreSQL, MongoDB, SQL, NoSQL
+       
+       Cloud & DevOps: AWS, Jenkins, RDS
+       
+       Machine Learning & CV: Machine Learning, OpenCV, CNN
+       
+       Tools & Platforms: Git, MATLAB, Simulink, KiCAD, Linux
 
 - 🌱 I’m currently learning AI
 - 😄 Pronouns: He/him
