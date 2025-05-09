@@ -1,10 +1,10 @@
 ### It's me Jayasankar R.
-###### Electronics Undergrad | Still finding
+###### Electrical & Electronics Undergrad | Software Developer
 ![Black-Technology-Linked-In-Banner.png](banner.jpg)
 
-I am a final year electronics student at Model Engineering College. I am curious about integrating my course relevance with modern computer science applications, and want to be a developer in the future.
+Another Indian engineer in the making. A dynamic tech enthusiast filled with a keen interest to learn, grow and develop. Loves to work for and promote inclusion in today's tech spaces.
 
-Explored areas of web development, and Machine Learning.
+Explored areas of Web Development, and Machine Learning.
 
 Skills:
 
