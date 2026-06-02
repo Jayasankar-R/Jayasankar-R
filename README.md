@@ -1,197 +1,150 @@
-# 👋 Hey, I'm Jayasankar R
+<p align="center">
+  <img src="./Banner1.png" alt="Jayasankar R Banner" width="100%" />
+</p>
 
-### 🚀 Full-Stack Engineer | DevOps Engineer | AI Builder | Embedded Systems Enthusiast
+<h1 align="center">Jayasankar R</h1>
 
-> Building scalable software, cloud-native infrastructure, AI-powered applications, and low-level embedded systems.
+<h3 align="center">
+Full-Stack Engineer • DevOps Engineer • AI Builder • Embedded Systems Enthusiast
+</h3>
+
+<p align="center">
+Building scalable software, cloud-native infrastructure, AI-powered applications, and embedded systems.
+</p>
 
 ---
 
-## 💡 About Me
+## 👨‍💻 About Me
 
-I'm a Software Engineer with 2+ years of experience designing and building scalable applications, cloud-native infrastructure, and automation systems.
+I'm a Software Engineer with 2+ years of professional experience building scalable backend systems, cloud-native platforms, AI-powered applications, and embedded solutions.
 
-My background combines:
+My experience spans:
 
-* 🖥️ Full-Stack Development
+* 🚀 Full-Stack Development
 * ☁️ Cloud & DevOps Engineering
-* 🤖 AI & Retrieval-Augmented Generation (RAG)
-* ⚡ Embedded Systems & Firmware Development
+* 🤖 AI & RAG Applications
+* ⚡ Embedded Systems Development
+* 📊 Database Optimization
+* 🔄 Distributed Systems & Event-Driven Architecture
 
-I enjoy working across the entire technology stack—from designing PostgreSQL schemas and Spring Boot microservices to deploying Kubernetes workloads, building AI-powered applications, and developing UART-based bootloaders.
-
----
-
-## 🔥 Highlights
-
-* ⚡ Reduced API latency by 30% through backend and database optimizations
-* 🚢 Built CI/CD pipelines reducing deployment time by 60%
-* ☁️ Deployed and managed workloads on AWS EKS using GitOps with ArgoCD
-* 📈 Optimized PostgreSQL queries improving response times by 150–200ms
-* 🤖 Built AI applications using RAG architectures and LLMs
-* 🔄 Developed Kafka-based event-driven microservices
-* 🔌 Built embedded systems using Arduino, ESP8266, and custom firmware components
-* 🚗 Exploring automotive software, bootloaders, flash memory, and low-level firmware development
+I enjoy working across the entire technology stack—from designing APIs and optimizing databases to deploying Kubernetes workloads and building AI-native applications.
 
 ---
 
-## 🧠 Current Interests
+## 🎯 Current Focus
 
-### AI & Agentic Systems
-
-* RAG Architectures
-* LLM Applications
-* AI Agents
-* Prompt Engineering
-* Autonomous Workflows
-
-### Cloud & Platform Engineering
-
-* Kubernetes
-* GitOps
-* Observability
-* Event-Driven Architectures
+* AI Agents & Autonomous Workflows
+* Retrieval-Augmented Generation (RAG)
+* Cloud-Native Infrastructure
+* Kubernetes & Platform Engineering
 * Distributed Systems
-
-### Embedded & Automotive Software
-
-* Bootloaders
-* Flash Drivers
-* Device Drivers
-* Embedded C
-* Automotive Software
-* Firmware Architecture
+* Event-Driven Architectures
+* Embedded & Automotive Software
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
-![Embedded C](https://img.shields.io/badge/-Embedded%20C-00599C?style=flat-square)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,go,c" />
+</p>
 
----
+### Backend Development
 
-### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi" />
+</p>
 
-* Node.js
-* Express.js
-* Fastify
-* Spring Boot
-* REST APIs
-* Microservices
-* Kafka
+### Frontend Development
 
----
-
-### Frontend
-
-* React.js
-* Next.js
-* React Native
-* Tailwind CSS
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
 
 ### Databases
 
-* PostgreSQL
-* MongoDB
-* Prisma
-* Sequelize
-
----
-
-### AI & Data
-
-* RAG
-* Hugging Face
-* OpenRouter
-* LLM Integrations
-* Vector Search
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
 
 ### Cloud & DevOps
 
-* AWS
-* Docker
-* Kubernetes
-* Helm
-* ArgoCD
-* GitHub Actions
-* Prometheus
-* Grafana
-* Loki
-* Fluent Bit
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" />
+</p>
 
 ---
 
-### Embedded Systems
+## 🚀 Core Expertise
 
-* Arduino
-* ESP8266
-* UART
-* SPI
-* I2C
-* CAN
-* ADC
-* PWM
-* Flash Memory
-* Bootloader Design
+- Backend Engineering (Node.js, Spring Boot)
+- Cloud & DevOps (AWS, Kubernetes, ArgoCD)
+- AI Applications & RAG Systems
+- PostgreSQL Performance Optimization
+- Distributed Systems & Event-Driven Architecture
+- Embedded Systems & Firmware Development
 
----
+## 📈 Engineering Interests
 
-## 🚀 Featured Projects
-
-### 🌾 GoFarm — AI Agriculture Assistant
-
-AI-powered agriculture platform that provides intelligent crop recommendations.
-
-**Tech:** Next.js, Node.js, Express, MongoDB, HuggingFace, RAG
+```text
+Backend Engineering        ████████████████████ 95%
+Cloud & DevOps            ██████████████████░ 90%
+System Design             █████████████████░░ 85%
+AI & RAG Applications     ████████████████░░░ 80%
+Frontend Development      ███████████████░░░░ 75%
+Embedded Systems          ██████████████░░░░░ 70%
+```
 
 ---
 
-### ⚡ Smart Hybrid Inverter
+## 🌱 Currently Learning
 
-Embedded control system integrating solar, battery, and grid power sources with MPPT-based optimization.
-
-**Tech:** Embedded C, Arduino, ESP8266, Power Electronics
-
----
-
-### 🔄 UART Flash Bootloader
-
-Custom Embedded-C bootloader supporting firmware updates, flash programming, checksum validation, and application handoff.
-
-**Tech:** Embedded C, UART, Flash Memory
+* Advanced System Design
+* AI Agent Architectures
+* Event-Driven Systems
+* Automotive Embedded Software
+* Cloud-Native Security
+* Platform Engineering
 
 ---
 
-### 🤖 AI Job Outreach Platform (In Progress)
+## 🤝 Open To
 
-Building an AI-powered autonomous job discovery and outreach platform that:
-
-* Discovers jobs
-* Matches resumes using AI
-* Generates personalized outreach
-* Tracks applications
-* Automates workflows
-
-**Tech:** Next.js, Express.js, PostgreSQL, OpenRouter, Playwright
+* Software Engineering Opportunities
+* Backend Engineering Roles
+* Platform & DevOps Engineering
+* AI Engineering Opportunities
+* Open Source Contributions
+* Technical Collaborations
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/jayasankar-r-078a65210
-* GitHub: https://github.com/Jayasankar-R
-* Email: [jayasankarr.mec@gmail.com](mailto:jayasankarr.mec@gmail.com)
+<p align="left">
+<a href="https://github.com/Jayasankar-R">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/jayasankar-r-078a65210">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jayasankarr.mec@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-> Always learning. Always building. Always curious.
+<p align="center">
+  <i>Always learning. Always building. Always curious.</i>
+</p>
